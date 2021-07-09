@@ -1,0 +1,28 @@
+body {
+    height: 100vh;
+    margin: 0;
+   display: flex;
+   justify-content: space-around;
+   flex-direction: column;
+   align-items: center;
+}
+
+
+div {
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+}
+span {
+    font-size: 2em;
+}
+
+#clic{
+    width:250px;
+    height:200px;
+}
+
+#demarrer {
+    width: 250px;
+    height: 40px;
+}
